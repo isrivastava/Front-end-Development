@@ -1,0 +1,33 @@
+header {background: #a10010;color:white;padding:5px;}
+footer {background: #333;color:white;padding:20px;}
+#first {background: #333;}
+#second {color:white;}
+#title {padding:20px;}
+#third {color: #a10010;}
+.btn{
+    border: none;
+    color: white !important;;
+    font-size: 16px;
+    font-family: "arial"
+    cursor: pointer;
+    background:#333;
+    height:100px;
+}
+.btn:hover, .btn:active, .btn:focus  {background:#a10010; color: white !important;}
+
+.panel-heading{
+	 background:white !important;
+}
+.btnstyle{
+	 border:none !important;
+	 box-shadow:none !important;
+	 -webkit-box-shadow:none !important;
+}
+.panstyle{
+	 border:none !important;
+}
+.panbdy{
+	padding:50px !important;
+}
+
+
