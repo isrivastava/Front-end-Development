@@ -1,2 +1,2 @@
 # Front-end-Development
-This repository is for creating small projects in different technolgies of front-end developemnt
+This repository contains web page that utilizes different technolgies of front-end developement
